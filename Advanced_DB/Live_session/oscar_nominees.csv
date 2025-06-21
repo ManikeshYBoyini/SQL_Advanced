@@ -1,0 +1,101 @@
+"year","category","nominee","movie","winner","id"
+2006.0,"actress in a supporting role","Abigail Breslin","Little Miss Sunshine","false",1
+1984.0,"actor in a supporting role","Adolph Caesar","A Soldier's Story","false",2
+2006.0,"actress in a supporting role","Adriana Barraza","Babel","false",3
+2002.0,"actor in a leading role","Adrien Brody","The Pianist","true",4
+1942.0,"actress in a supporting role","Agnes Moorehead","The Magnificent Ambersons","false",5
+1944.0,"actress in a supporting role","Agnes Moorehead","Mrs. Parkington","false",6
+1948.0,"actress in a supporting role","Agnes Moorehead","Johnny Belinda","false",7
+1964.0,"actress in a supporting role","Agnes Moorehead","Hush...Hush, Sweet Charlotte","false",8
+1936.0,"actor in a supporting role","Akim Tamiroff","The General Died at Dawn","false",9
+1943.0,"actor in a supporting role","Akim Tamiroff","For Whom the Bell Tolls","false",10
+1972.0,"actor in a supporting role","Al Pacino","The Godfather","false",11
+1973.0,"actor","Al Pacino","Serpico","false",12
+1974.0,"actor","Al Pacino","The Godfather Part II","false",13
+1975.0,"actor","Al Pacino","Dog Day Afternoon","false",14
+1979.0,"actor in a leading role","Al Pacino","...And Justice for All","false",15
+1990.0,"actor in a supporting role","Al Pacino","Dick Tracy","false",16
+1992.0,"actor in a leading role","Al Pacino","Scent of a Woman","true",17
+1992.0,"actor in a supporting role","Al Pacino","Glengarry Glen Ross","false",18
+2004.0,"actor in a supporting role","Alan Alda","The Aviator","false",19
+1966.0,"actor","Alan Arkin","The Russians Are Coming The Russians Are Coming","false",20
+1968.0,"actor","Alan Arkin","The Heart Is a Lonely Hunter","false",21
+2006.0,"actor in a supporting role","Alan Arkin","Little Miss Sunshine","true",22
+2012.0,"actor in a supporting role","Alan Arkin","Argo","false",23
+1968.0,"actor","Alan Bates","The Fixer","false",24
+1940.0,"actor in a supporting role","Albert Basserman","Foreign Correspondent","false",25
+1987.0,"actor in a supporting role","Albert Brooks","Broadcast News","false",26
+1963.0,"actor","Albert Finney","Tom Jones","false",27
+1974.0,"actor","Albert Finney","Murder on the Orient Express","false",28
+1983.0,"actor in a leading role","Albert Finney","The Dresser","false",29
+1984.0,"actor in a leading role","Albert Finney","Under the Volcano","false",30
+2000.0,"actor in a supporting role","Albert Finney","Erin Brockovich","false",31
+2003.0,"actor in a supporting role","Alec Baldwin","The Cooler","false",32
+1952.0,"actor","Alec Guinness","The Lavender Hill Mob","false",33
+1957.0,"actor","Alec Guinness","The Bridge on the River Kwai","true",34
+1977.0,"actor in a supporting role","Alec Guinness","Star Wars","false",35
+1988.0,"actor in a supporting role","Alec Guinness","Little Dorrit","false",36
+1944.0,"actor","Alexander Knox","Wilson","false",37
+1983.0,"actress in a supporting role","Alfre Woodard","Cross Creek","false",38
+1970.0,"actress","Ali MacGraw","Love Story","false",39
+1936.0,"actress in a supporting role","Alice Brady","My Man Godfrey","false",40
+1937.0,"actress in a supporting role","Alice Brady","In Old Chicago","true",41
+1944.0,"actress in a supporting role","Aline MacMahon","Dragon Seed","false",42
+2005.0,"actress in a supporting role","Amy Adams","Junebug","false",43
+2008.0,"actress in a supporting role","Amy Adams","Doubt","false",44
+2010.0,"actress in a supporting role","Amy Adams","The Fighter","false",45
+2012.0,"actress in a supporting role","Amy Adams","The Master","false",46
+1983.0,"actress in a supporting role","Amy Irving","Yentl","false",47
+1985.0,"actress in a supporting role","Amy Madigan","Twice in a Lifetime","false",48
+2007.0,"actress in a supporting role","Amy Ryan","Gone Baby Gone","false",49
+1937.0,"actress in a supporting role","Andrea Leeds","Stage Door","false",50
+1990.0,"actor in a supporting role","Andy Garcia","The Godfather, Part III","false",51
+1993.0,"actress in a leading role","Angela Bassett","What's Love Got to Do with It","false",52
+1944.0,"actress in a supporting role","Angela Lansbury","Gaslight","false",53
+1945.0,"actress in a supporting role","Angela Lansbury","The Picture of Dorian Gray","false",54
+1962.0,"actress in a supporting role","Angela Lansbury","The Manchurian Candidate","false",55
+1999.0,"actress in a supporting role","Angelina Jolie","Girl, Interrupted","true",56
+2008.0,"actress in a leading role","Angelina Jolie","Changeling","false",57
+1985.0,"actress in a supporting role","Anjelica Huston","Prizzi's Honor","true",58
+1989.0,"actress in a supporting role","Anjelica Huston","Enemies, A Love Story","false",59
+1990.0,"actress in a leading role","Anjelica Huston","The Grifters","false",60
+1945.0,"actress in a supporting role","Ann Blyth","Mildred Pierce","false",61
+1987.0,"actress in a supporting role","Ann Sothern","The Whales of August","false",62
+1971.0,"actress in a supporting role","Ann-Margret","Carnal Knowledge","false",63
+1975.0,"actress","Ann-Margret","Tommy","false",64
+2009.0,"actress in a supporting role","Anna Kendrick","Up in the Air","false",65
+1955.0,"actress","Anna Magnani","The Rose Tattoo","true",66
+1957.0,"actress","Anna Magnani","Wild Is the Wind","false",67
+1993.0,"actress in a supporting role","Anna Paquin","The Piano","true",68
+1987.0,"actress in a supporting role","Anne Archer","Fatal Attraction","false",69
+1962.0,"actress","Anne Bancroft","The Miracle Worker","true",70
+1964.0,"actress","Anne Bancroft","The Pumpkin Eater","false",71
+1967.0,"actress","Anne Bancroft","The Graduate","false",72
+1977.0,"actress in a leading role","Anne Bancroft","The Turning Point","false",73
+1985.0,"actress in a leading role","Anne Bancroft","Agnes of God","false",74
+1946.0,"actress in a supporting role","Anne Baxter","The Razor's Edge","true",75
+1950.0,"actress","Anne Baxter","All about Eve","false",76
+2008.0,"actress in a leading role","Anne Hathaway","Rachel Getting Married","false",77
+2012.0,"actress in a supporting role","Anne Hathaway","Les Mis_rables","true",78
+1987.0,"actress in a supporting role","Anne Ramsey","Throw Momma from the Train","false",79
+1943.0,"actress in a supporting role","Anne Revere","The Song of Bernadette","false",80
+1945.0,"actress in a supporting role","Anne Revere","National Velvet","true",81
+1947.0,"actress in a supporting role","Anne Revere","Gentleman's Agreement","false",82
+1937.0,"actress in a supporting role","Anne Shirley","Stella Dallas","false",83
+1990.0,"actress in a supporting role","Annette Bening","The Grifters","false",84
+1999.0,"actress in a leading role","Annette Bening","American Beauty","false",85
+2004.0,"actress in a leading role","Annette Bening","Being Julia","false",86
+2010.0,"actress in a leading role","Annette Bening","The Kids Are All Right","false",87
+1966.0,"actress","Anouk Aimee","A Man and a Woman","false",88
+1957.0,"actor","Anthony Franciosa","A Hatful of Rain","false",89
+1991.0,"actor in a leading role","Anthony Hopkins","The Silence of the Lambs","true",90
+1993.0,"actor in a leading role","Anthony Hopkins","The Remains of the Day","false",91
+1995.0,"actor in a leading role","Anthony Hopkins","Nixon","false",92
+1997.0,"actor in a supporting role","Anthony Hopkins","Amistad","false",93
+1956.0,"actor in a supporting role","Anthony Perkins","Friendly Persuasion","false",94
+1969.0,"actor in a supporting role","Anthony Quayle","Anne of the Thousand Days","false",95
+1952.0,"actor in a supporting role","Anthony Quinn","Viva Zapata!","true",96
+1956.0,"actor in a supporting role","Anthony Quinn","Lust for Life","true",97
+1957.0,"actor","Anthony Quinn","Wild Is the Wind","false",98
+1964.0,"actor","Anthony Quinn","Zorba the Greek","false",99
+1996.0,"actor in a supporting role","Armin Mueller-Stahl","Shine","false",100
